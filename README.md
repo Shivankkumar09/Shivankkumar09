@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m a Full Stack Web Developer<br>🌱 I’m currently Working with React , NodeJs. <br>
+<!-- Banner / Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#3BAFDA;">Shivank Kumar</span></h1>
+<h3 align="center">🚀 Full Stack Web Developer | React • Node.js • MongoDB</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Open+Source+Contributor;Passionate+about+System+Design;Always+learning+new+things+✨" />
+</p>
+
+---
+
+## 💫 **About Me**
+- 🔭 I’m a **Full Stack Web Developer**
+- ⚛️ I work extensively with **React, Node.js, Express, MongoDB**
+- 🌱 Currently learning **AWS, System Design & Scalable Backend Development**
+- 🎨 Love building **high-performance apps & real-time collaborations**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivank-kumar-17a884254/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivank0912@gmail.com) 
@@ -12,6 +27,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+
+
+## 🧠 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shivank0912/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shivank_0912)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivank_54)
 
 ## 🌐 Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
