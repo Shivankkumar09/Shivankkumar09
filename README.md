@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#3BAFDA;">Shivank</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#3BAFDA;">Shivank </span></h1>
 <h3 align="center">🚀 Full Stack Web Developer | React • Node.js • MongoDB</h3>
 
 <p align="center">
