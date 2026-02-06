@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#3BAFDA;">Shivank </span></h1>
-<h3 align="center">🚀 Full Stack Web Developer | React • Node.js • MongoDB</h3>
+<h3 align="center">🚀 Full Stack Developer | React • Node.js • MongoDB</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Open+Source+Contributor;Passionate+about+System+Design;Always+learning+new+things+✨" />
