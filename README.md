@@ -9,7 +9,7 @@
 ---
 
 ## 💫 **About Me**
-- 🔭 I’m a **Full Stack Developer **
+- 🔭 I’m a **Full Stack Developer**
 - ⚛️ I work extensively with **React, Node.js, Express, MongoDB**
 - 🌱 Currently learning **AWS, System Design & Scalable Backend Development**
 - 🎨 Love building **high-performance apps & real-time collaborations**
