@@ -35,6 +35,37 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shivank_0912)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivank_54)
 
+
+
+<!-- LeetCode Achievements -->
+<h2 align="center">🏆 LeetCode Achievements</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivank0912/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/shivank0912/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/shivank0912/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Badge 2024" width="150" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivank0912/">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June 2024 Badge" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/shivank0912/">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="July 2024 Badge" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/shivank0912/">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="October 2024 Badge" width="150" />
+  </a>
+</p>
+
 ## 🌐 Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
