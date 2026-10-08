@@ -9,10 +9,8 @@
 ---
 
 ## 💫 **About Me**
-- 🔭 I’m a **Full Stack Developer **
-- ⚛️ I work extensively with **React, Node.js, Express, MongoDB**
-- 🌱 Currently learning **AWS, System Design & Scalable Backend Development**
-- 🎨 Love building **high-performance apps & real-time collaborations**
+- 💻 Full Stack Software Engineer passionate about building scalable, high-performance applications and solving real-world problems.
+- 🚀 Experienced in real-time systems and backend development, currently exploring **System Design, Distributed Systems & AI Engineering**.
 
 ---
 
